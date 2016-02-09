@@ -7,4 +7,3 @@ test:
 clean:
 	@rm -f fs
 	@rm -f fs.img
-
